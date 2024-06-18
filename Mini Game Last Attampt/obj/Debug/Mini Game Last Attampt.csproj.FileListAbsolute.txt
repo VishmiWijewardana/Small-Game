@@ -1,0 +1,26 @@
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+C:\Users\vishm\OneDrive\Desktop\HND\1 year 1st sem\VS Project\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
